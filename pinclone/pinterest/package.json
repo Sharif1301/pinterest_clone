@@ -1,0 +1,18 @@
+{
+  "name": "pinter",
+  "version": "1.0.0",
+  "description": "pinterest clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pinterest",
+    "webpack",
+    "django",
+    "react",
+    "postcss"
+  ],
+  "author": "Sharif Hossain",
+  "license": "ISC"
+}
